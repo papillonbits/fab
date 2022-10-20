@@ -1,0 +1,23 @@
+.image {
+  img {
+    @media (max-width: 767px) {
+      max-height: calc(300px - 2rem);
+    }
+
+    @media (max-width: 1024px) {
+      max-width: 100%;
+      max-height: calc(400px - 2rem);
+    }
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 2rem;
+    max-width: calc(100% - 2rem);
+    height: auto;
+    width: auto;
+    max-height: calc(500px - 4rem);
+    margin: auto;
+    display: block;
+  }
+}

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Image /> Render must match catImage 1`] = `
+<div>
+  <div
+    class="image"
+  >
+    <img
+      alt="beng"
+      src="https://66.media.tumblr.com/tumblr_m4iejdP8Hb1qd477zo1_250.jpg"
+    />
+  </div>
+</div>
+`;
+
+exports[`<Image /> Render must match dogImage 1`] = `
+<div>
+  <div
+    class="image"
+  >
+    <img
+      alt="collie"
+      src="https://images.dog.ceo/breeds/collie-border/n02106166_1031.jpg"
+    />
+  </div>
+</div>
+`;
