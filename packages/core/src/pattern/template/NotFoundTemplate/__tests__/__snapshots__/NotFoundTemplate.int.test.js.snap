@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NotFoundTemplate /> Render must match regular 1`] = `
+<div>
+  <div
+    class=""
+  >
+    <h2>
+      Not Found
+    </h2>
+    <div
+      class=""
+    >
+      <h3>
+        No match for route. Return to 
+      </h3>
+    </div>
+    <a
+      href="/"
+    >
+       Back to Home Page
+    </a>
+  </div>
+</div>
+`;
