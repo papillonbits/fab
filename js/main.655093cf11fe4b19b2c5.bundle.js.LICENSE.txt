@@ -1,6 +1,6 @@
 /*!
  * @project        @papillonbits/fable-core-microsite
- * @name           main.f251e281caf0466f59c8.bundle.js
+ * @name           main.655093cf11fe4b19b2c5.bundle.js
  * @author         MTS
  * @copyright      Copyright (c) 2022 MTS
  */
