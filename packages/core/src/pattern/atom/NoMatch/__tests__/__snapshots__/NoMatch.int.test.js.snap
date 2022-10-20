@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NoMatch /> Render must match regular 1`] = `
+<div>
+  <div
+    class=""
+  >
+    <h3>
+      No match for route. Return to 
+    </h3>
+  </div>
+</div>
+`;
