@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UnderConstruction /> Render must match regular 1`] = `
+<div>
+  <div
+    class=""
+  >
+    Under construction
+     
+    <span
+      aria-label="emoji"
+      role="img"
+    >
+      🙂
+    </span>
+  </div>
+</div>
+`;
