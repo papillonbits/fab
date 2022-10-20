@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FindAnimalBreed /> Render must match findCatBreed 1`] = `
+<div>
+  <div
+    class="breed"
+  >
+    <h2>
+      A random image of 
+      beng
+       breed
+    </h2>
+    <h4>
+      Type in new breed then press enter or click search button
+    </h4>
+    <div
+      class="breedSearch"
+    >
+      <input
+        class="input"
+        placeholder="beng"
+      />
+      <button
+        class="button"
+        type="button"
+      >
+        Search Cat
+      </button>
+    </div>
+    <div
+      class="breedShow"
+    >
+      <div
+        class="image"
+      >
+        <img
+          alt="beng"
+          src="https://66.media.tumblr.com/tumblr_m4iejdP8Hb1qd477zo1_250.jpg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<FindAnimalBreed /> Render must match findDogBreed 1`] = `
+<div>
+  <div
+    class="breed"
+  >
+    <h2>
+      A random image of 
+      collie
+       breed
+    </h2>
+    <h4>
+      Type in new breed then press enter or click search button
+    </h4>
+    <div
+      class="breedSearch"
+    >
+      <input
+        class="input"
+        placeholder="collie"
+      />
+      <button
+        class="button"
+        type="button"
+      >
+        Search Dog
+      </button>
+    </div>
+    <div
+      class="breedShow"
+    >
+      <div
+        class="image"
+      >
+        <img
+          alt="collie"
+          src="https://images.dog.ceo/breeds/collie-border/n02106166_1031.jpg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
