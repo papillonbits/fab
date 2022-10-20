@@ -1,0 +1,6 @@
+/*!
+ * @project        @papillonbits/fable-core-microsite
+ * @name           runtime.97a5c9adc8bfdb3c8d03.bundle.js
+ * @author         MTS
+ * @copyright      Copyright (c) 2022 MTS
+ */
