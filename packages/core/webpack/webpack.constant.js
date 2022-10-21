@@ -1,4 +1,5 @@
 import path from 'path'
+import packageJSON from '../../../package.json'
 
 export const environmentVariablesFilePaths = {
   development: path.resolve(__dirname, '../.env.develop'),
@@ -9,9 +10,9 @@ export const environmentVariablesFilePaths = {
 
 export const micrositeUrlPaths = {
   development: '/',
-  test: '/fable/',
-  acceptance: '/fable/',
-  release: '/fable/',
+  test: `/${packageJSON.name}/`,
+  acceptance: `/${packageJSON.name}/`,
+  release: `/${packageJSON.name}/`,
 }
 
 export const micrositeFolderPaths = {
@@ -22,8 +23,4 @@ export const micrositeFolderPaths = {
   src: path.resolve(__dirname, '../src'),
 }
 
-export const includedSourceFilePaths = [
-  micrositeFolderPaths.src,
-  `${micrositeFolderPaths.nodeModules}/@papillonbits/components/build`,
-  `${micrositeFolderPaths.nodeModules}/@papillonbits/css/build`,
-]
+export const includedSourceFilePaths = [micrositeFolderPaths.src]
