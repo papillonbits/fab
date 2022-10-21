@@ -1,5 +1,5 @@
 /*!
- * @project        @papillonbits/fable-core-microsite
+ * @project        fable
  * @name           main.655093cf11fe4b19b2c5.bundle.js
  * @author         MTS
  * @copyright      Copyright (c) 2022 MTS
