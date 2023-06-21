@@ -2,5 +2,5 @@
  * @project        fable
  * @name           runtime.97a5c9adc8bfdb3c8d03.bundle.js
  * @author         MTS
- * @copyright      Copyright (c) 2022 MTS
+ * @copyright      Copyright (c) 2023 MTS
  */
