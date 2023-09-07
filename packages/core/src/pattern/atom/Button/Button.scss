@@ -1,7 +1,9 @@
 .button {
   width: 100%;
   background-color: #aa418c;
-  box-shadow: 0 4px 6px rgba(190, 190, 190, 0.2), 0 1px 3px rgba(190, 190, 190, 0.2);
+  box-shadow:
+    0 4px 6px rgba(190, 190, 190, 0.2),
+    0 1px 3px rgba(190, 190, 190, 0.2);
   border-radius: 0.25rem;
   border: 0.0625rem solid #aa418c;
   color: #fff;

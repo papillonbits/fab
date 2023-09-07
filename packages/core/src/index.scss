@@ -1,28 +1,35 @@
 /* stylelint-disable */
 @font-face {
   font-family: Ciutadella;
-  src: url(./asset/font/Ciutadella/35A006_0_0.woff2) format('woff2'), url(./asset/font/Ciutadella/35A006_0_0.woff) format('woff');
+  src:
+    url(./asset/font/Ciutadella/35A006_0_0.woff2) format('woff2'),
+    url(./asset/font/Ciutadella/35A006_0_0.woff) format('woff');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: Ciutadella;
-  src: url(./asset/font/Ciutadella/35A006_2_0.woff2) format('woff2'), url(./asset/font/Ciutadella/35A006_2_0.woff) format('woff');
+  src:
+    url(./asset/font/Ciutadella/35A006_2_0.woff2) format('woff2'),
+    url(./asset/font/Ciutadella/35A006_2_0.woff) format('woff');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: Ciutadella;
-  src: url(./asset/font/Ciutadella/35A006_1_0.woff2) format('woff2'), url(./asset/font/Ciutadella/35A006_1_0.woff) format('woff');
+  src:
+    url(./asset/font/Ciutadella/35A006_1_0.woff2) format('woff2'),
+    url(./asset/font/Ciutadella/35A006_1_0.woff) format('woff');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: Roboto;
-  src: url(./asset/font/roboto/roboto-v18-latin-300.woff2) format('woff2'),
+  src:
+    url(./asset/font/roboto/roboto-v18-latin-300.woff2) format('woff2'),
     url(./asset/font/roboto/roboto-v18-latin-300.woff) format('woff');
   font-weight: 300;
   font-style: normal;
@@ -30,7 +37,8 @@
 
 @font-face {
   font-family: Roboto;
-  src: url(./asset/font/roboto/roboto-v18-latin-regular.woff2) format('woff2'),
+  src:
+    url(./asset/font/roboto/roboto-v18-latin-regular.woff2) format('woff2'),
     url(./asset/font/roboto/roboto-v18-latin-regular.woff) format('woff');
   font-weight: 400;
   font-style: normal;
@@ -38,7 +46,8 @@
 
 @font-face {
   font-family: Roboto;
-  src: url(./asset/font/roboto/roboto-v18-latin-500.woff2) format('woff2'),
+  src:
+    url(./asset/font/roboto/roboto-v18-latin-500.woff2) format('woff2'),
     url(./asset/font/roboto/roboto-v18-latin-500.woff) format('woff');
   font-weight: 500;
   font-style: normal;
