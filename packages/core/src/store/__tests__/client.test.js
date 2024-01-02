@@ -7,7 +7,7 @@ jest.mock('redux', () => ({
   combineReducers: jest.fn(),
 }))
 jest.mock('redux-logger', () => ({ createLogger: () => {} }))
-jest.mock('redux-thunk', () => ({ applyMiddleware: () => {}, compose: () => {} }))
+jest.mock('redux-thunk', () => ({ thunk: { someThunk: 'fantastic-thunk' }, withExtraArgument: jest.fn() }))
 jest.mock('../../library/environment/host', () => ({ isRunningOnLocalHostViaDomain: true }))
 jest.mock('../../state/default', () => ({
   getAppDefaultStateFromWindow: () => ({}),
